@@ -1,1 +1,2 @@
-# dio-gft
+# Repositório dos desafios do bootcamp GFT
+#
